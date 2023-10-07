@@ -1,4 +1,4 @@
-# machine-Learning-algorithm
+# machine-Learning-algorithms
 This Python code appears to be a program for implementing various neural network algorithms, including K-Means, MaxNet, Self-Organizing Maps (SOM), and Self-Organizing Competitive Networks (SCN). The program provides a menu-based interface for selecting one of these algorithms and then executing it. Here's a brief explanation of each algorithm and how the code is structured:
 
 1) K-Means:
